@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I love to write and analyze code and software! And I like trains. 🚂
+
+Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/autinerd?style=social)
+
 <!--
 **autinerd/autinerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
